@@ -5,9 +5,10 @@
 #include<unistd.h>
 #include<time.h>
 #include<sys/stat.h>
-
 #include"make_log.h"
 #include<pthread.h>
+#include<sys/socket.h>
+#include<sys/types.h>
 
 #if 1
 
